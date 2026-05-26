@@ -1,4 +1,4 @@
-<img src="./headergh.png" alt="Kevin - Technical Support Engineer | Developer Support | Support Automation" width="100%">
+<img src="./gh-header.png" alt="Kevin - Technical Support Engineer | Developer Support | Support Automation" width="100%">
 
 <h2 align="center">Technical Support Engineer • Developer Support • Support Automation • Documentation</h2>
 
