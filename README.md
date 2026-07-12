@@ -1,6 +1,6 @@
 <img src="./gh-header2.png" alt="Kevin - Technical Support Engineer | Developer Support | Support Automation" width="100%">
 
-<h2 align="center">Technical Support Engineer @ MetaMask | Blockchain Investigations & Security | Automation (Python)</h2>
+<h2 align="center">Technical Operations Engineer | AI Automation | Python | Cloud | Security | Former Consensys (MetaMask)</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kji304dev/">
