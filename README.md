@@ -1,4 +1,4 @@
-<img src="./gh-header.png" alt="Kevin - Technical Support Engineer | Developer Support | Support Automation" width="100%">
+<img src="./gh-header2.png" alt="Kevin - Technical Support Engineer | Developer Support | Support Automation" width="100%">
 
 <h2 align="center">Technical Support Engineer @ MetaMask | Blockchain Investigations & Security | Automation (Python)</h2>
 
@@ -18,22 +18,24 @@
 
 ## About Me
 
-I am a Technical Support Engineer focused on technical troubleshooting, developer support, documentation, support automation, and customer issue analysis. I enjoy working at the intersection of customer-facing support, internal tooling, data analysis, and clear technical communication.
+I am a Technical Operations Engineer focused on automation, AI-assisted workflows, technical troubleshooting, security analysis, and data-driven process improvement.
 
-My background includes escalated case investigation, support operations, runbook maintenance, workflow improvement, and AI-assisted reporting. I use tools like Python, JavaScript, SQL, Excel, and AI platforms to help support teams identify patterns, improve documentation, and resolve complex issues more efficiently.
+With 4+ years of experience supporting complex software platforms, I specialize in investigating technical issues, analyzing system behavior, building internal tools, and creating workflows that help teams operate more efficiently.
 
-- Technical Support Engineer with experience in escalations, support operations, and technical documentation
-- Strong focus on root-cause analysis, customer issue investigation, and process improvement
-- Experienced with support platforms, ticketing workflows, runbooks, and internal knowledge sharing
-- Daily user of AI tools for research, reporting, documentation, and operational workflows
-- Background in JavaScript, Python, SQL, Excel, APIs, blockchain support, and customer-facing technical support
+My background includes developer support, blockchain technology, customer-facing engineering, Python automation, SQL analysis, and AI-powered tooling.
+
+- Technical Operations Engineer with experience in escalations, automation, security investigations, and operational tooling
+- Strong focus on root-cause analysis, workflow improvement, and solving complex technical problems
+- Experienced building internal tools, analyzing data, and improving operational processes
+- Daily user of AI tools for research, automation, documentation, and workflow optimization
+- Background in Python, JavaScript, SQL, APIs, blockchain technology, and customer-facing engineering
 - Fun fact: Top 10 score worldwide on *Galaga*
 
 ---
 
 ## Featured Projects
 
-> Some projects below are documentation-only summaries of internal tools. Source code, customer data, screenshots, logs, and implementation details are not public.
+> Some projects below are documentation-only summaries of internal tools created during professional experience. Source code, customer data, screenshots, logs, and proprietary implementation details are not public.
 
 | Project | Focus | Description |
 |---|---|---|
@@ -54,6 +56,7 @@ My background includes escalated case investigation, support operations, runbook
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white" alt="HTML/CSS">
   <img src="https://img.shields.io/badge/REST%20APIs-009688" alt="REST APIs">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" alt="JSON">
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white" alt="Google Sheets">
@@ -61,31 +64,34 @@ My background includes escalated case investigation, support operations, runbook
   <img src="https://img.shields.io/badge/AI%20Workflows-6E40C9" alt="AI Workflows">
 </p>
 
-### Support & Operations
+### Technical Operations & Engineering
 
-- Technical troubleshooting
-- Escalated case investigation
-- Ticket triage and issue routing
-- Root-cause analysis
-- Support documentation and runbooks
-- Knowledge base workflows
-- Customer-facing technical communication
-- Support analytics and reporting
-- Workflow automation and process improvement
+- Technical troubleshooting and root-cause analysis
+- Escalated issue investigation
+- Security-focused investigation and risk analysis
+- API troubleshooting and integration support
+- Python automation and internal tooling
+- Data analysis and operational reporting
+- AI workflow design and optimization
+- Technical documentation and knowledge systems
 
 ---
 
-## Current Focus
+## What I’m Building Toward
 
-I am currently focused on roles and projects that combine:
+I am focused on building practical systems that combine automation, AI, cloud technologies, and data analysis to improve technical operations.
 
-- Technical Support Engineering
-- Developer Support
-- Customer Success Engineering
-- Support Operations
-- AI-assisted documentation and reporting
-- Internal tooling and workflow automation
-- Data cleaning, trend analysis, and operational insights
+My goal is to create solutions that reduce manual work, improve decision-making, and help teams operate more efficiently through better tooling and intelligent workflows.
+
+---
+
+## Currently Learning
+
+- AWS Solutions Architect Associate
+- Cloud infrastructure fundamentals
+- AI agent workflows
+- Data engineering concepts
+- Modern automation patterns
 
 ---
 
