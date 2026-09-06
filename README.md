@@ -105,12 +105,6 @@ My goal is to create solutions that reduce manual work, improve decision-making,
 
 ---
 
-## What I’m Building Toward
-
-I am focused on helping teams resolve complex technical issues faster through better troubleshooting workflows, clearer documentation, smarter support tooling, and practical use of AI-assisted analysis. My strongest areas are support engineering, customer-facing technical communication, technical documentation, reporting workflows, and support automation.
-
----
-
 ## Get in Touch
 
 <p>
